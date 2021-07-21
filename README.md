@@ -1,6 +1,6 @@
-### Hi there 👋, i´m Gustavo
+### Hi there 👋, i'm Gustavo
 
-I'm currently a dev student, so i´ll do my best to achieve my goal.
+I'm currently a dev student, so i'll do my best to achieve my goal.
 
 I'm studying right now:
   * HTML5
