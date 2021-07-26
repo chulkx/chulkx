@@ -1,6 +1,5 @@
 ### Hi there 👋, i'm Gustavo
 
-https://codepen.io/your-work/
 
 I'm currently a dev student, so i'll do my best to achieve my goal.
 
@@ -24,6 +23,8 @@ The developmente of this last interface i'm going to do in two ways:
   * JS + Electron
 
 By doing all this I hope to be able to perfect my knowledge in the area and to be able to indenpendently develope a tool that I'll use in my electronics workshop.
+
+Now i'm learning with freecodecamp, you can check my practices on https://codepen.io/your-work/
 
 <!--
 **chulkx/chulkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
