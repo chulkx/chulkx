@@ -26,6 +26,8 @@ By doing all this I hope to be able to perfect my knowledge in the area and to b
 
 Now i'm learning with freecodecamp, you can check my practices on https://codepen.io/your-work/
 
+Python course UNSAM, practice repo https://github.com/chulkx/cursoPython.git
+
 <!--
 **chulkx/chulkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
