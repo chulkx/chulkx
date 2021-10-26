@@ -1,7 +1,7 @@
-### Hi there 👋, i'm Gustavo
+### Hi there 👋, I'm Gustavo
 
 
-I'm currently a dev student, so i'll do my best to achieve my goal.
+I'm currently a dev student, so I'll do my best to achieve my goal.
 
 I'm studying right now:
   * HTML5
@@ -13,22 +13,25 @@ I'm studying right now:
   * QT
   * Django
 
-I'm currently working on the developent of an ammeter with data visualization on PC or web.
-For this i try to create  the user interfaces in two modes: 
+I'm currently working on the development of an ammeter with data visualization on PC or web.
+
+For this purpose, I'm creating the user interfaces in two platforms:
   * web interface 
   * desk interface
 
-The developmente of this last interface i'm going to do in two ways:
+The latter will be done using:
   * Python + QT5
   * JS + Electron
 
-By doing all this I hope to be able to perfect my knowledge in the area and to be able to indenpendently develope a tool that I'll use in my electronics workshop.
+By doing all this, I hope to be able to polish my knowledge in the area while independently
+developing a tool that I'll use in my electronics workshop.
 
-Now i'm learning with freecodecamp, you can check my practices on https://codepen.io/your-work/
+Now I'm learning with freecodecamp, you can check my practices on https://codepen.io/ChulkX
 
 Python course UNSAM, practice repo https://github.com/chulkx/cursoPython.git
 
 Landing Page practice: https://chulkx.github.io/casitas.io/
+
 
 <!--
 **chulkx/chulkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
