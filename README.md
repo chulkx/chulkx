@@ -28,6 +28,8 @@ Now i'm learning with freecodecamp, you can check my practices on https://codepe
 
 Python course UNSAM, practice repo https://github.com/chulkx/cursoPython.git
 
+Landing Page practice: https://chulkx.github.io/casitas.io/
+
 <!--
 **chulkx/chulkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
