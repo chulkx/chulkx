@@ -7,8 +7,6 @@ I'm studying right now:
   * HTML5
   * CSS
   * JS
-  * NODEJS
-  * Electron
   * Python
   * QT
   * Django
