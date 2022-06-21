@@ -28,7 +28,6 @@ Now I'm learning with freecodecamp, you can check my practices on https://codepe
 
 Python course UNSAM, practice repo https://github.com/chulkx/cursoPython.git
 
-Landing Page practice: https://chulkx.github.io/casitas.io/
 
 
 <!--
