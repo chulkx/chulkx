@@ -24,7 +24,7 @@ The latter will be done using:
 By doing all this, I hope to be able to polish my knowledge in the area while independently
 developing a tool that I'll use in my electronics workshop.
 
-Now I'm learning with freecodecamp, you can check my practices on https://codepen.io/ChulkX
+<!--Now I'm learning with freecodecamp, you can check my practices on https://codepen.io/ChulkX-->
 
 Python course UNSAM, practice repo https://github.com/chulkx/cursoPython.git
 
